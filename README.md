@@ -1,2 +1,2 @@
-# Tutorial_Tic-Tac-Toe
-Tic Tac Toe game by React tutorial
+# tic-tac-toe
+Tic-tac-toe game by React tutorial
